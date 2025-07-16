@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maven/📥 Maven - Getting Dependencies (Dependency Management).md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📥 Maven - Getting Dependencies (Dependency Management)"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Maven/📥 Maven - Getting Dependencies (Dependency Management).md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 📥 Maven - Getting Dependencies (Dependency Management)"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Maven/📥 Maven - Getting Dependencies (Dependency Management).md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 📥 Maven - Getting Dependencies (Dependency Management)"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Maven/📥 Maven - Getting Dependencies (Dependency Management).md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 📥 Maven - Getting Dependencies (Dependency Management)"
+              "title": "Outline of README"
             }
           }
         ]
@@ -170,8 +170,9 @@
   },
   "active": "5e08d0e7972e1499",
   "lastOpenFiles": [
-    "Maven/📦 Maven - What Is Maven?.md",
     "Maven/📥 Maven - Getting Dependencies (Dependency Management).md",
+    "README.md",
+    "Maven/📦 Maven - What Is Maven?.md",
     "Maven"
   ]
 }
